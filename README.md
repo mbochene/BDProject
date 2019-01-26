@@ -2,7 +2,6 @@
 Projekt polega na stworzeniu bazy danych, która ma wspomagać teoretyczną sieć basenów.
 
 ## Pierwsze kroki bazy danych
-Zanim zaczniemy cokolwiek pobierać, to najpierw trzeba wiedzieć co należy zrobić.
 
 **Reminder:** Nigdy nie należy zmieniać ustawień ani plików bazy danych poza dedykowanymi programami, jak również nie należy zatrzymywać usług powiązanych z bazą danych! Wiąże się to z zablokowaniem dostępu i koniecznością usunięcia tejże bazy danych!
 > Learning the hard way
